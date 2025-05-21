@@ -1,4 +1,6 @@
 # Ex No: 08 - Design and Simulation of a Booth Multiplier Using Verilog and Cadence nclaunch
+## Ganapathy Shriram V B 
+## 212223060064
 
 ## Aim
 To design and simulate a **Booth Multiplier** using **Verilog HDL** and verify its functionality in **Cadence nclaunch**.
@@ -74,7 +76,8 @@ endmodule
 
 ## Simulation Results
 
-![Screenshot 2025-03-29 233612](https://github.com/user-attachments/assets/3a7d4929-df32-46df-b776-c090673b4f26)
+![Screenshot 2025-05-21 111232](https://github.com/user-attachments/assets/c32ff88d-4bed-4fc8-9138-914de6fece47)
+
 
 
 ## Results
